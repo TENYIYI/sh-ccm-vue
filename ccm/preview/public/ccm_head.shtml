@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="../images/obox.css">
+<link rel="stylesheet" href="../images/ccm_base.css">
+<script type="text/javascript">
+    // 站点配置
+    var siteConfig = {
+        userUrl: '//tuser.haier.com',
+        apiUrl: '//test.haier.com',
+    };
+</script>
+<script src="../images/jQuery.1.8.3.min.js"></script>
+<!-- rem核心js -->
+<script src="../images/remble.js"></script>
+<!-- rem核心js -->
+
